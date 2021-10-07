@@ -21,8 +21,8 @@ The primary focus of the PyIndia Network is provide a platform for python discus
 
 4. CODE SHARING:
   - Be considerate of other members when sharing code. Walls of text and photos of screen/code will not be tolerated.
-  - Use markdown to format code if it's less than 10-15 lines. To learn how to use markdown read the FAQs, [here](LINKNEEDED!!!).
-  - To share code which is more than 10-15 lines use a pasting website. To learn how to use a pasting website read the FAQs, [here](LINKNEEDED!!!).
+  - Use markdown to format code if it's less than 10-15 lines. To learn how to use markdown read the FAQs, [here](https://t.me/pyindiarules/7).
+  - To share code which is more than 10-15 lines use a pasting website. To learn how to use a pasting website read the FAQs, [here](https://t.me/pyindiarules/7).
 
 5. LINKS:
   - Be transparent when sharing links and don't disable link preview by telegram if possible.
