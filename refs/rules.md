@@ -1,4 +1,4 @@
-The primary focus of the PyIndia Network is provide a platform for python discussion. Members are expected to follow rules stated here. 
+The primary focus of the PyIndia Network is provide a platform for python discussion. Members are expected to follow rules stated here.
 
 **PYINDIA RULES:**
 
@@ -42,9 +42,14 @@ The primary focus of the PyIndia Network is provide a platform for python discus
 8. HELPING(*)
   - Avoid spoon-feeding, guide the person to an answer rather than handing it to them.
   - Avoid answering low effort questions. Instead ask them to search themselves first.
-  - Do not do someone else's homework/quiz/hackathon for them. 
+  - Please do not do offer to do someone else's homework/quiz/hackathon for them.
+  - If deemed necessary for the sake of maintaining standards, admins reserve the right to delete/interrupt the conversation.
 
 (*)enforcement of rule 8 will heavily depend on admin discretion. Please cooperate with the admins.
+
+If you think you were warned incorrectly, instead of arguing with the admins on the chat, come to the meta group (link below). Being confrontational about it and blaming the admins will not help your case. Admins are also human, mistakes can happen so stay calm, explain your reasoning and we'll help resolve your the issue.
+
+The rules here are for the convenience of administrators to help regulate the chat, they are not up for discussion on the main or offtopic chat. Come to meta group (link below) for such discussions. Do know that your request/suggestion may be ignored without any explanation.
 
 **GROUPS/CHANNELS UNDER PYINDIA NETWORK:**
 
